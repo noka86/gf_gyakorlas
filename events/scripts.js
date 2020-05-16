@@ -10,7 +10,7 @@ $ ('#thirdButton').click(() =>{
     $('button').css('background', 'black')
 })
 
-$('#lastButton').click(() => {
+/*$('#lastButton').click(() => {
     $('#lastButton).css('background', 'value='#0000FF')
 
-})
+})*/
