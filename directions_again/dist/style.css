@@ -1,0 +1,20 @@
+main{
+  border: 5px solid #4488CD;
+  width: 300px;
+  margin: 10px;
+}
+p{
+  padding: 40px;
+  margin: 0px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.first{
+  background: #E53B36;
+}
+.second{
+  background: #36DDEA;
+}

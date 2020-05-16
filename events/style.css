@@ -1,0 +1,11 @@
+button {
+    display: block;
+    color: yellow;
+    background: purple;
+    padding: 15px;
+}
+
+.secondButton {
+    font-size: 20px;
+}
+
